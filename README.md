@@ -1,5 +1,7 @@
 Fibonacci numbers
 
+Work completed with Kevin Townsend.
+
 Assignment was to calculate as many fibonacci numbers as possible.  Created two files...one with class Fibonacci and the other with the test file to run the class Fibonacci.
 
 It has a few different methods.....Run, Start, Stop and Continue.  Really Start and continue are the functional methods.
