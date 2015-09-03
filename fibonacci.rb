@@ -11,8 +11,8 @@ class Fibonacci
   end
 
   def start(seconds)
-    @count = 3
-    @fibonacci = [1, 1]
+    @count = 2
+    @fibonacci = [0, 1]
     continue seconds
   end
 
