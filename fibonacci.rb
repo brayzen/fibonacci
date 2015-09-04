@@ -37,6 +37,7 @@ class Fibonacci
     return 0 if n == 1
     @fibonacci = [0, 1]
     (n - 1).times {@fibonacci.push(@fibonacci.last(2).inject(:+)).shift}
+    @fibonacci.last
   end
 end
 
